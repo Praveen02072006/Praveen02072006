@@ -117,11 +117,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-![](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg)
-
----
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blueviolet"/>
