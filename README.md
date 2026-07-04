@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Praveen</h1>
+<h1 align="center">Hi 👋, I'm Praveen Raj G</h1>
 
 <h3 align="center">
 🚀 Java Full Stack Developer | Software Engineer | Problem Solver
